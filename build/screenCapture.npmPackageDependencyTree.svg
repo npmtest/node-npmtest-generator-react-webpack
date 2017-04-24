@@ -28,7 +28,7 @@
 <tspan x="10" y="410">  │ │ │ ├─┬ isomorphic-fetch@2.2.1 </tspan>
 <tspan x="10" y="426">  │ │ │ │ ├─┬ node-fetch@1.6.3 </tspan>
 <tspan x="10" y="442">  │ │ │ │ │ └─┬ encoding@0.1.12 </tspan>
-<tspan x="10" y="458">  │ │ │ │ │   └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="458">  │ │ │ │ │   └── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="474">  │ │ │ │ └── whatwg-fetch@2.0.3 </tspan>
 <tspan x="10" y="490">  │ │ │ ├─┬ promise@7.1.1 </tspan>
 <tspan x="10" y="506">  │ │ │ │ └── asap@2.0.5 </tspan>
@@ -75,7 +75,7 @@
 <tspan x="10" y="1162">  │ │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="1178">  │ │   ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="1194">  │ │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="1210">  │ │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="1210">  │ │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1226">  │ │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1242">  │ │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1258">  │ │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -90,8 +90,8 @@
 <tspan x="10" y="1402">  │ │   │ │   └── is-finite@1.0.2 </tspan>
 <tspan x="10" y="1418">  │ │   │ └── strip-indent@1.0.1 </tspan>
 <tspan x="10" y="1434">  │ │   └── trim-newlines@1.0.0 </tspan>
-<tspan x="10" y="1450">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1466">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1450">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1466">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1482">  │ ├── detect-conflict@1.0.1 </tspan>
 <tspan x="10" y="1498">  │ ├─┬ error@7.0.2 </tspan>
 <tspan x="10" y="1514">  │ │ ├── string-template@0.2.1 </tspan>
@@ -157,7 +157,7 @@
 <tspan x="10" y="2474">  │ ├─┬ istextorbinary@2.1.0 </tspan>
 <tspan x="10" y="2490">  │ │ ├── binaryextensions@2.0.0 </tspan>
 <tspan x="10" y="2506">  │ │ ├── editions@1.3.3 </tspan>
-<tspan x="10" y="2522">  │ │ └── textextensions@2.0.1 </tspan>
+<tspan x="10" y="2522">  │ │ └── textextensions@2.1.0 </tspan>
 <tspan x="10" y="2538">  │ ├── lodash@4.17.4 </tspan>
 <tspan x="10" y="2554">  │ ├─┬ mem-fs-editor@2.3.0 </tspan>
 <tspan x="10" y="2570">  │ │ ├── commondir@1.0.1 </tspan>
@@ -194,9 +194,9 @@
 <tspan x="10" y="3066">  │ ├─┬ run-async@2.3.0 </tspan>
 <tspan x="10" y="3082">  │ │ └── is-promise@2.1.0 </tspan>
 <tspan x="10" y="3098">  │ ├─┬ shelljs@0.7.7 </tspan>
-<tspan x="10" y="3114">  │ │ ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="3114">  │ │ ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="3130">  │ │ └─┬ rechoir@0.6.2 </tspan>
-<tspan x="10" y="3146">  │ │   └─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="3146">  │ │   └─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="3162">  │ │     └── path-parse@1.0.5 </tspan>
 <tspan x="10" y="3178">  │ ├── text-table@0.2.0 </tspan>
 <tspan x="10" y="3194">  │ ├─┬ through2@2.0.3 </tspan>
