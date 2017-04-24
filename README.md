@@ -1,4 +1,7 @@
-# test coverage for  [generator-react-webpack (v3.3.4)](https://github.com/react-webpack-generators/generator-react-webpack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-react-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-react-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-react-webpack.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-react-webpack)
+# npmtest-generator-react-webpack
+
+#### basic test coverage for  [generator-react-webpack (v3.3.4)](https://github.com/react-webpack-generators/generator-react-webpack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-react-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-react-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-react-webpack.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-react-webpack)
+
 #### Yeoman generator for using React with Webpack via Babel
 
 [![NPM](https://nodei.co/npm/generator-react-webpack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-react-webpack)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-react-webpack/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-generator-react-webpack/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-react-webpack/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-react-webpack/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-react-webpack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-react-webpack/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-generator-react-webpack/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-generator-react-webpack/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-react-webpack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-react-webpack/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-generator-react-webpack/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-react-webpack/build/coverage.html/index.html)
 
@@ -109,7 +112,8 @@
         "release:patch": "npm version patch && npm publish && git push --follow-tags",
         "test": "mocha"
     },
-    "version": "3.3.4"
+    "version": "3.3.4",
+    "bin": {}
 }
 ```
 
